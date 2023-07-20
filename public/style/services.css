@@ -1,0 +1,113 @@
+.services{
+    
+}
+.services_title{
+    height: 12%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.services_content{
+    height: 78%;
+    
+}
+.svs_ctn_info{
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ctn_info{
+    background-image: linear-gradient(90deg, #ff000000,#000000, #00800000);
+    padding: 20px 100px 20px 100px;
+    color: #2196F3;
+}
+.svs_ctn_options{
+    height: 50%;
+}
+.tn_options{
+    padding: 5px;
+    position: absolute;
+    width: 193px;
+    height: 174px;
+    text-align: center;
+    transition: 0.5s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+    background: #0000004d;
+    cursor: pointer;
+}
+.tn_options:hover{
+    transform: scale(1.1);
+}
+.options_1{
+    margin: -12vh 0px 0px 13vw;
+}
+.options_2{
+    margin: 6vh 0px 0px 28vw;
+}
+.options_3{
+    margin: 13vh 0px 0px 44vw;
+}
+.options_4{
+    margin: 6vh 0px 0px 60vw;
+}
+.options_5{
+    margin: -12vh 0px 0px 75vw;
+}
+
+.options_img{
+    height: 5vh;
+    width: 4vw;
+    border-radius: 100px;
+}
+.options_img img{
+    width: 50%;
+    height: 50%;
+    -webkit-user-drag: none;
+    user-select: none;
+}
+.options_title{
+    position: relative;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+}
+
+.services_moreInfo{
+    height: 10%;
+    color: #25afff;
+    font-size: 1.2em;
+    text-align: center;
+}
+.services_moreInfo span:nth-child(1){
+    margin-bottom: 15px;
+    display: block;
+    cursor: pointer;
+}
+.services_moreInfo span:nth-child(2){
+    display: block;
+    margin: auto;
+    height: 5px;
+    width: 50%;
+    background-image: linear-gradient(90deg, transparent, #25afff, transparent);
+}
+
+@media only screen and (min-width:1669px) {
+    .options_1{
+        margin: -12vh 0px 0px 9vw;
+    }
+    .options_2{
+        margin: 6vh 0px 0px 23vw;
+    }
+    .options_3{
+        margin: 13vh 0px 0px 39vw;
+    }
+    .options_4{
+        margin: 6vh 0px 0px 55vw;
+    }
+    .options_5{
+        margin: -12vh 0px 0px 70vw;
+    }
+}

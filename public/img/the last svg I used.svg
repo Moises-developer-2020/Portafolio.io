@@ -1,0 +1,1449 @@
+<svg id="gradient" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3840 2160" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+                            <style>
+                                
+#gradient-s-rect1 {
+    animation: gradient-s-rect1__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate 1.5s  infinite;
+}
+
+@keyframes gradient-s-rect1__sz {
+    0% {
+        width: 0px;
+        height: 39.4023px
+    }
+
+    8.196721% {
+        width: 300.003568px;
+        height: 39.4023px
+    }
+
+    100% {
+        width: 300.003568px;
+        height: 39.4023px
+    }
+}
+
+#gradient-s-rect2 {
+    animation: gradient-s-rect2__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate 1s  infinite;
+}
+
+@keyframes gradient-s-rect2__sz {
+    0% {
+        width: 0px;
+        height: 39.4023px
+    }
+
+    13.114754% {
+        width: 200.000858px;
+        height: 39.4023px
+    }
+
+    100% {
+        width: 200.000858px;
+        height: 39.4023px
+    }
+}
+
+#gradient-s-rect3 {
+    animation: gradient-s-rect3__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect3__sz {
+    0% {
+        width: 0px;
+        height: 39.4023px
+    }
+
+    9.836066% {
+        width: 334.301092px;
+        height: 39.4023px
+    }
+
+    100% {
+        width: 334.301092px;
+        height: 39.4023px
+    }
+}
+
+#gradient-s-rect4 {
+    animation: gradient-s-rect4__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate 2s  infinite;
+}
+
+@keyframes gradient-s-rect4__sz {
+    0% {
+        width: 0px;
+        height: 38.7867px
+    }
+
+    11.47541% {
+        width: 389.265611px;
+        height: 38.7867px
+    }
+
+    100% {
+        width: 389.265611px;
+        height: 38.7867px
+    }
+}
+
+#gradient-s-rect5 {
+    animation: gradient-s-rect5__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate 1.5s  infinite;
+}
+
+@keyframes gradient-s-rect5__sz {
+    0% {
+        width: 0px;
+        height: 17.923px
+    }
+
+    31.147541% {
+        width: 1006.053519px;
+        height: 17.923px
+    }
+
+    100% {
+        width: 1006.053519px;
+        height: 17.923px
+    }
+}
+
+#gradient-s-rect6 {
+    animation: gradient-s-rect6__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect6__sz {
+    0% {
+        width: 0px;
+        height: 17.923px
+    }
+
+    37.704918% {
+        width: 1011.435749px;
+        height: 17.923px
+    }
+
+    100% {
+        width: 1011.435749px;
+        height: 17.923px
+    }
+}
+
+
+#gradient-s-rect8 {
+    animation: gradient-s-rect8__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate 1s  infinite;
+}
+
+@keyframes gradient-s-rect8__sz {
+    0% {
+        width: 0px;
+        height: 13.4891px
+    }
+
+    40.983607% {
+        width: 1011.813716px;
+        height: 13.4891px
+    }
+
+    100% {
+        width: 1011.813716px;
+        height: 13.4891px
+    }
+}
+
+#gradient-s-rect9 {
+    animation: gradient-s-rect9__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect9__sz {
+    0% {
+        width: 0px;
+        height: 14.2667px
+    }
+
+    42.622951% {
+        width: 1010.952724px;
+        height: 14.2667px
+    }
+
+    100% {
+        width: 1010.952724px;
+        height: 14.2667px
+    }
+}
+
+#gradient-s-rect10 {
+    animation: gradient-s-rect10__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate 1s  infinite;
+}
+
+@keyframes gradient-s-rect10__sz {
+    0% {
+        width: 0px;
+        height: 17.923px
+    }
+
+    44.262295% {
+        width: 1010.994724px;
+        height: 17.923px
+    }
+
+    100% {
+        width: 1010.994724px;
+        height: 17.923px
+    }
+}
+
+#gradient-s-rect11 {
+    animation: gradient-s-rect11__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect11__sz {
+    0% {
+        width: 0px;
+        height: 17.923px
+    }
+
+    36.065574% {
+        width: 1011.160927px;
+        height: 17.923px
+    }
+
+    100% {
+        width: 1011.160927px;
+        height: 17.923px
+    }
+}
+
+#gradient-s-rect12 {
+    animation: gradient-s-rect12__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate 1.5s  infinite;
+}
+
+@keyframes gradient-s-rect12__sz {
+    0% {
+        width: 0px;
+        height: 17.923px
+    }
+
+    32.786885% {
+        width: 1002.111114px;
+        height: 17.923px
+    }
+
+    100% {
+        width: 1002.111114px;
+        height: 17.923px
+    }
+}
+
+#gradient-s-rect13 {
+    animation: gradient-s-rect13__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect13__sz {
+    0% {
+        width: 0px;
+        height: 17.923px
+    }
+
+    34.42623% {
+        width: 1006.053519px;
+        height: 17.923px
+    }
+
+    100% {
+        width: 1006.053519px;
+        height: 17.923px
+    }
+}
+
+#gradient-s-rect14 {
+    animation: gradient-s-rect14__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate 2s  infinite;
+}
+
+@keyframes gradient-s-rect14__sz {
+    0% {
+        width: 0px;
+        height: 17.923px
+    }
+
+    29.508197% {
+        width: 1006.053519px;
+        height: 17.923px
+    }
+
+    100% {
+        width: 1006.053519px;
+        height: 17.923px
+    }
+}
+
+#gradient-s-rect15 {
+    animation: gradient-s-rect15__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect15__sz {
+    0% {
+        width: 0px;
+        height: 38.7867px
+    }
+
+    6.557377% {
+        width: 233.559367px;
+        height: 38.7867px
+    }
+
+    100% {
+        width: 233.559367px;
+        height: 38.7867px
+    }
+}
+
+#gradient-s-rect16 {
+    animation: gradient-s-rect16__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate 2s  infinite;
+}
+
+@keyframes gradient-s-rect16__sz {
+    0% {
+        width: 0px;
+        height: 38.7867px
+    }
+
+    4.918033% {
+        width: 155.706245px;
+        height: 38.7867px
+    }
+
+    100% {
+        width: 155.706245px;
+        height: 38.7867px
+    }
+}
+
+#gradient-s-rect17 {
+    animation: gradient-s-rect17__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect17__sz {
+    0% {
+        width: 0px;
+        height: 38.7867px
+    }
+
+    3.278689% {
+        width: 341.170635px;
+        height: 38.7867px
+    }
+
+    100% {
+        width: 341.170635px;
+        height: 38.7867px
+    }
+}
+
+#gradient-s-rect18 {
+    animation: gradient-s-rect18__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate 1.5s  infinite;
+}
+
+@keyframes gradient-s-rect18__sz {
+    0% {
+        width: 0px;
+        height: 38.786646px
+    }
+
+    1.639344% {
+        width: 418.639505px;
+        height: 38.786646px
+    }
+
+    100% {
+        width: 418.639505px;
+        height: 38.786646px
+    }
+}
+
+#gradient-s-rect19 {
+    animation: gradient-s-rect19__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect19__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    42.622951% {
+        width: 40px;
+        height: 260.94919px
+    }
+
+    100% {
+        width: 40px;
+        height: 260.94919px
+    }
+}
+
+#gradient-s-rect20 {
+    animation: gradient-s-rect20__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate 1s  infinite;
+}
+
+@keyframes gradient-s-rect20__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    40.983607% {
+        width: 40px;
+        height: 239.384536px
+    }
+
+    100% {
+        width: 40px;
+        height: 239.384536px
+    }
+}
+
+#gradient-s-rect21 {
+    animation: gradient-s-rect21__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect21__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    44.262295% {
+        width: 40px;
+        height: 263.212982px
+    }
+
+    100% {
+        width: 40px;
+        height: 263.212982px
+    }
+}
+
+#gradient-s-rect22 {
+    animation: gradient-s-rect22__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate 1s  infinite;
+}
+
+@keyframes gradient-s-rect22__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    47.540984% {
+        width: 40px;
+        height: 263.212982px
+    }
+
+    100% {
+        width: 40px;
+        height: 263.212982px
+    }
+}
+
+#gradient-s-rect23 {
+    animation: gradient-s-rect23__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect23__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    39.344262% {
+        width: 40px;
+        height: 199.99555px
+    }
+
+    100% {
+        width: 40px;
+        height: 199.99555px
+    }
+}
+
+#gradient-s-rect24 {
+    animation: gradient-s-rect24__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate 1.5s  infinite;
+}
+
+@keyframes gradient-s-rect24__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    37.704918% {
+        width: 40px;
+        height: 190.774653px
+    }
+
+    100% {
+        width: 40px;
+        height: 190.774653px
+    }
+}
+
+#gradient-s-rect25 {
+    animation: gradient-s-rect25__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect25__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    36.065574% {
+        width: 40px;
+        height: 180.004763px
+    }
+
+    100% {
+        width: 40px;
+        height: 180.004763px
+    }
+}
+
+#gradient-s-rect26 {
+    animation: gradient-s-rect26__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate 2s  infinite;
+}
+
+@keyframes gradient-s-rect26__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    34.42623% {
+        width: 40px;
+        height: 263.036673px
+    }
+
+    100% {
+        width: 40px;
+        height: 263.036673px
+    }
+}
+
+#gradient-s-rect27 {
+    animation: gradient-s-rect27__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect27__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    32.786885% {
+        width: 40px;
+        height: 261.210912px
+    }
+
+    100% {
+        width: 40px;
+        height: 261.210912px
+    }
+}
+
+#gradient-s-rect28 {
+    animation: gradient-s-rect28__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate 1s  infinite;
+}
+
+@keyframes gradient-s-rect28__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    24.590164% {
+        width: 40px;
+        height: 263.036673px
+    }
+
+    100% {
+        width: 40px;
+        height: 263.036673px
+    }
+}
+
+#gradient-s-rect29 {
+    animation: gradient-s-rect29__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect29__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    26.229508% {
+        width: 40px;
+        height: 263.036673px
+    }
+
+    100% {
+        width: 40px;
+        height: 263.036673px
+    }
+}
+
+#gradient-s-rect30 {
+    animation: gradient-s-rect30__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate 1.5s  infinite;
+}
+
+@keyframes gradient-s-rect30__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    31.147541% {
+        width: 40px;
+        height: 263.635087px
+    }
+
+    100% {
+        width: 40px;
+        height: 263.635087px
+    }
+}
+
+#gradient-s-rect31 {
+    animation: gradient-s-rect31__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect31__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    29.508197% {
+        width: 40px;
+        height: 259.547894px
+    }
+
+    100% {
+        width: 40px;
+        height: 259.547894px
+    }
+}
+
+#gradient-s-rect32 {
+    animation: gradient-s-rect32__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate 2s  infinite;
+}
+
+@keyframes gradient-s-rect32__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    27.868852% {
+        width: 40px;
+        height: 237.468138px
+    }
+
+    100% {
+        width: 40px;
+        height: 237.468138px
+    }
+}
+
+#gradient-s-rect33 {
+    animation: gradient-s-rect33__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect33__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    22.95082% {
+        width: 40px;
+        height: 237.468138px
+    }
+
+    100% {
+        width: 40px;
+        height: 237.468138px
+    }
+}
+
+#gradient-s-rect34 {
+    animation: gradient-s-rect34__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate 1s  infinite;
+}
+
+@keyframes gradient-s-rect34__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    11.47541% {
+        width: 40px;
+        height: 237.468487px
+    }
+
+    100% {
+        width: 40px;
+        height: 237.468487px
+    }
+}
+
+#gradient-s-rect35 {
+    animation: gradient-s-rect35__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect35__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    13.114754% {
+        width: 40px;
+        height: 251.392077px
+    }
+
+    100% {
+        width: 40px;
+        height: 251.392077px
+    }
+}
+
+#gradient-s-rect36 {
+    animation: gradient-s-rect36__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate 1.5s  infinite;
+}
+
+@keyframes gradient-s-rect36__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    14.754098% {
+        width: 40px;
+        height: 257.082057px
+    }
+
+    100% {
+        width: 40px;
+        height: 257.082057px
+    }
+}
+
+#gradient-s-rect37 {
+    animation: gradient-s-rect37__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect37__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    8.196721% {
+        width: 40px;
+        height: 263.961398px
+    }
+
+    100% {
+        width: 40px;
+        height: 263.961398px
+    }
+}
+
+#gradient-s-rect38 {
+    animation: gradient-s-rect38__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate 2s  infinite;
+}
+
+@keyframes gradient-s-rect38__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    4.918033% {
+        width: 40px;
+        height: 156.996368px
+    }
+
+    7.377049% {
+        width: 40px;
+        height: 325.968646px
+    }
+
+    100% {
+        width: 40px;
+        height: 325.968646px
+    }
+}
+
+#gradient-s-rect39 {
+    animation: gradient-s-rect39__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect39__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    19.672131% {
+        width: 40px;
+        height: 251.392077px
+    }
+
+    100% {
+        width: 40px;
+        height: 251.392077px
+    }
+}
+
+#gradient-s-rect40 {
+    animation: gradient-s-rect40__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate 1s  infinite;
+}
+
+@keyframes gradient-s-rect40__sz {
+    0% {
+        width: 40px;
+        height: 0px;
+    }
+
+    21.311475% {
+        width: 40px;
+        height: 261.113214px
+    }
+
+    100% {
+        width: 40px;
+        height: 261.113214px;
+    }
+}
+
+#gradient-s-rect41 {
+    animation: gradient-s-rect41__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect41__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    16.393443% {
+        width: 40px;
+        height: 254.641655px
+    }
+
+    100% {
+        width: 40px;
+        height: 254.641655px
+    }
+}
+
+#gradient-s-rect42 {
+    animation: gradient-s-rect42__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate 1s  infinite;
+}
+
+@keyframes gradient-s-rect42__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    18.032787% {
+        width: 40px;
+        height: 242.78737px
+    }
+
+    100% {
+        width: 40px;
+        height: 242.78737px
+    }
+}
+
+#gradient-s-rect43 {
+    animation: gradient-s-rect43__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect43__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    9.836066% {
+        width: 40px;
+        height: 151.916587px
+    }
+
+    100% {
+        width: 40px;
+        height: 151.916587px
+    }
+}
+
+#gradient-s-rect44 {
+    animation: gradient-s-rect44__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate 1.5s  infinite;
+}
+
+@keyframes gradient-s-rect44__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    6.557377% {
+        width: 40px;
+        height: 263.961398px
+    }
+
+    100% {
+        width: 40px;
+        height: 263.961398px
+    }
+}
+
+
+
+#gradient-s-rect46 {
+    animation: gradient-s-rect46__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate 2s  infinite;
+}
+
+@keyframes gradient-s-rect46__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    1.639344% {
+        width: 40px;
+        height: 383.544149px
+    }
+
+    100% {
+        width: 40px;
+        height: 383.544149px
+    }
+}
+
+#gradient-s-rect47 {
+    animation: gradient-s-rect47__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect47__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    45.901639% {
+        width: 40px;
+        height: 263.849648px
+    }
+
+    100% {
+        width: 40px;
+        height: 263.849648px
+    }
+}
+
+#gradient-s-rect48 {
+    animation: gradient-s-rect48__sz 8000ms linear 1 normal forwards, moving 3s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect48__sz {
+    0% {
+        width: 40px;
+        height: 0px
+    }
+
+    49.180328% {
+        width: 40px;
+        height: 253.296467px
+    }
+
+    100% {
+        width: 40px;
+        height: 253.296467px
+    }
+}
+
+
+
+#gradient-s-rect51 {
+    animation: gradient-s-rect51__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate 1.5s  infinite;
+}
+
+@keyframes gradient-s-rect51__sz {
+    0% {
+        width: 0px;
+        height: 39.4023px
+    }
+
+    21.311475% {
+        width: 294.000294px;
+        height: 39.4023px
+    }
+
+    100% {
+        width: 294.000294px;
+        height: 39.4023px
+    }
+}
+
+#gradient-s-rect52 {
+    animation: gradient-s-rect52__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect52__sz {
+    0% {
+        width: 0px;
+        height: 39.4023px
+    }
+
+    26.229508% {
+        width: 292.852304px;
+        height: 39.4023px
+    }
+
+    100% {
+        width: 292.852304px;
+        height: 39.4023px
+    }
+}
+
+#gradient-s-rect53 {
+    animation: gradient-s-rect53__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate 1s  infinite;
+}
+
+@keyframes gradient-s-rect53__sz {
+    0% {
+        width: 0px;
+        height: 39.4023px
+    }
+
+    22.95082% {
+        width: 292.482588px;
+        height: 39.4023px
+    }
+
+    100% {
+        width: 292.482588px;
+        height: 39.4023px
+    }
+}
+
+#gradient-s-rect54 {
+    animation: gradient-s-rect54__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect54__sz {
+    0% {
+        width: 0px;
+        height: 38.7867px
+    }
+
+    24.590164% {
+        width: 126.566257px;
+        height: 38.7867px
+    }
+
+    100% {
+        width: 126.566257px;
+        height: 38.7867px
+    }
+}
+
+#gradient-s-rect55 {
+    animation: gradient-s-rect55__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate 1s  infinite;
+}
+
+@keyframes gradient-s-rect55__sz {
+    0% {
+        width: 0px;
+        height: 38.7867px
+    }
+
+    27.868852% {
+        width: 126.566257px;
+        height: 38.7867px
+    }
+
+    100% {
+        width: 126.566257px;
+        height: 38.7867px
+    }
+}
+
+#gradient-s-rect56 {
+    animation: gradient-s-rect56__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect56__sz {
+    0% {
+        width: 0px;
+        height: 38.7867px
+    }
+
+    19.672131% {
+        width: 158.207822px;
+        height: 38.7867px
+    }
+
+    100% {
+        width: 158.207822px;
+        height: 38.7867px
+    }
+}
+
+#gradient-s-rect57 {
+    animation: gradient-s-rect57__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate 1.5s  infinite;
+}
+
+@keyframes gradient-s-rect57__sz {
+    0% {
+        width: 0px;
+        height: 38.7867px
+    }
+
+    18.032787% {
+        width: 189.849386px;
+        height: 38.7867px
+    }
+
+    100% {
+        width: 189.849386px;
+        height: 38.7867px
+    }
+}
+
+#gradient-s-rect58 {
+    animation: gradient-s-rect58__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect58__sz {
+    0% {
+        width: 0px;
+        height: 38.7867px
+    }
+
+    16.393443% {
+        width: 335.400582px;
+        height: 38.7867px
+    }
+
+    100% {
+        width: 335.400582px;
+        height: 38.7867px
+    }
+}
+
+#gradient-s-rect59 {
+    animation: gradient-s-rect59__sz 8000ms linear 1 normal forwards, movingx 2s ease-in-out alternate infinite;
+}
+
+@keyframes gradient-s-rect59__sz {
+    0% {
+        width: 0px;
+        height: 38.7867px
+    }
+
+    14.754098% {
+        width: 442.981901px;
+        height: 38.7867px
+    }
+
+    100% {
+        width: 442.981901px;
+        height: 38.7867px
+    }
+}
+
+
+
+
+
+
+#gradient #gradient-s-path2 {
+    stroke-dasharray: 2728 2730;
+    stroke-dashoffset: 2729;
+    animation: xkcfpGQi_draw 4000ms linear 983ms infinite forwards;
+}
+
+@keyframes xkcfpGQi_draw {
+
+    100% {
+        stroke-dashoffset: 0;
+    }
+}
+
+#gradient-s-path1 {
+    stroke-dasharray: 9138 9140;
+    stroke-dashoffset: 9139;
+    animation: xkcfpGQi_draw 2000ms linear 0ms infinite forwards;
+    animation-direction: alternate-reverse;
+}
+
+@keyframes moving{
+    0% {
+        y: -20px;
+    }
+    
+    100% {
+        y: 20px;
+        stop-color: rgba(255, 0, 0, 0.493);
+    }
+}
+@keyframes movingx{
+    0% {
+    }
+    
+    100% {
+    }
+}
+
+svg rect{
+    fill: url(#change1);
+}
+svg rect:nth-child(2n+1){
+    fill: url(#change);
+}
+
+#gradient-s-rect7{
+    animation: gradient-s-rect7 2s ease-in-out 3s infinite alternate ;
+    fill: url(#gradient-s-rect7-fill);
+}
+#gradient-s-rect7_0{
+    animation: gradient-s-rect7_0 2s ease-in-out 2s infinite alternate ;
+    fill: url(#gradient-s-rect7_0-fill);
+}
+#gradient-s-rect7_1{
+    animation: gradient-s-rect7_1 2s ease-in-out 1.5s infinite alternate ;
+    fill: url(#gradient-s-rect7_1-fill);
+}
+#gradient-s-rect7_2{
+    animation: gradient-s-rect7_2 2s ease-in-out 1s infinite alternate ;
+    fill: url(#gradient-s-rect7_2-fill);
+}
+#gradient-s-rect7_3{
+    animation: gradient-s-rect7_3 2s ease-in-out 2.5s infinite alternate ;
+    fill: url(#gradient-s-rect7_3-fill);
+}
+
+@keyframes gradient-s-rect7 {
+    0% {width: 0px ;}
+    100% { width: 62px;}
+}
+@keyframes gradient-s-rect7_0 {
+    0% {width: 0px ;}
+    100% { width: 36px;}
+}
+@keyframes gradient-s-rect7_1 {
+    0% {width: 0px ;}
+    100% { width: 26px;}
+}
+@keyframes gradient-s-rect7_2 {
+    0% {width: 0px ;}
+    100% { width: 7px;}
+}
+@keyframes gradient-s-rect7_3 {
+    0% {width: 0px ;}
+    100% { width: 50px;}
+}
+                            </style>
+                            <defs>
+                              <linearGradient id="change" x1="0" x2="0" y1="0" y2="1">
+                                <stop class="main-stop" offset="0%" style="
+                                                          stop-color: #109300;
+                                                          animation: moving 3s ease-in-out alternate 1s  infinite;"></stop>
+                                <stop class="alt-stop" offset="80%" style="
+                                                          stop-color: #00f58f00;"></stop>
+                              </linearGradient>
+                              <linearGradient id="change1" x1="0" x2="0" y1="0" y2="1">
+                                <stop class="main-stop" offset="0%" style="
+                                                          stop-color: #109300;
+                                                          animation: moving 4.5s ease-in-out alternate 2.5s  infinite;"></stop>
+                                <stop class="alt-stop" offset="80%" style="
+                                                          stop-color: #00f58f00;"></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-path1-fill" x1="1.5" y1="0" x2="0.9" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-path1-fill-0" offset="0%" stop-color="rgba(0,77,255,0.77)"></stop>
+                                <stop id="gradient-s-path1-fill-1" offset="73%" stop-color="rgba(0,77,255,0)"></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-path1-stroke" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-path1-stroke-0" offset="0%" stop-color="rgb(255 255 255)"></stop>
+                                <stop id="gradient-s-path1-stroke-1" offset="50%" stop-color="rgba(122,148,255,0)"></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-rect7-fill" x1="1" y1="0.5" x2="0" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-rect7-fill-0" offset="0%" stop-color="#79c9fb" style="
+                                                              stop-color: rgb(3 121 195 / 15%);
+                                                          "></stop>
+                                <stop id="gradient-s-rect7-fill-1" offset="100%" stop-color="rgba(128,239,255,0)" style="
+                                                              stop-color: rgba(128, 239, 255, 0);
+                                                          "></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-rect7_0-fill" x1="1" y1="0.5" x2="0" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-rect7-fill-0" offset="0%" stop-color="#79c9fb" style="
+                                                              stop-color: rgb(3 121 195 / 15%);
+                                                          "></stop>
+                                <stop id="gradient-s-rect7-fill-1" offset="100%" stop-color="rgba(128,239,255,0)" style="
+                                                              stop-color: rgba(128, 239, 255, 0);
+                                                          "></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-rect7_1-fill" x1="1" y1="0.5" x2="0" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-rect7-fill-0" offset="0%" stop-color="#79c9fb" style="
+                                                              stop-color: rgb(3 121 195 / 15%);
+                                                          "></stop>
+                                <stop id="gradient-s-rect7-fill-1" offset="100%" stop-color="rgba(128,239,255,0)" style="
+                                                              stop-color: rgba(128, 239, 255, 0);
+                                                          "></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-rect7_2-fill" x1="1" y1="0.5" x2="0" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-rect7-fill-0" offset="0%" stop-color="#79c9fb" style="
+                                                              stop-color: rgb(3 121 195 / 15%);
+                                                          "></stop>
+                                <stop id="gradient-s-rect7-fill-1" offset="100%" stop-color="rgba(128,239,255,0)" style="
+                                                              stop-color: rgba(128, 239, 255, 0);
+                                                          "></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-rect7_3-fill" x1="1" y1="0.5" x2="0" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-rect7-fill-0" offset="0%" stop-color="#79c9fb" style="
+                                                              stop-color: rgb(3 121 195 / 15%);
+                                                          "></stop>
+                                <stop id="gradient-s-rect7-fill-1" offset="100%" stop-color="rgba(128,239,255,0)" style="
+                                                              stop-color: rgba(128, 239, 255, 0);
+                                                          "></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-rect8-fill" x1="1" y1="0.5" x2="0" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-rect8-fill-0" offset="0%" stop-color="#79c9fb"></stop>
+                                <stop id="gradient-s-rect8-fill-1" offset="33%" stop-color="rgba(122,227,255,0.02)"></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-rect9-fill" x1="1" y1="0.5" x2="0" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-rect9-fill-0" offset="0%" stop-color="#79c9fb"></stop>
+                                <stop id="gradient-s-rect9-fill-1" offset="35%" stop-color="rgba(124,235,255,0)"></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-rect10-fill" x1="1" y1="0.5" x2="0" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-rect10-fill-0" offset="0%" stop-color="#79c9fb"></stop>
+                                <stop id="gradient-s-rect10-fill-1" offset="31%" stop-color="rgba(125,225,255,0)"></stop>
+                                <stop id="gradient-s-rect10-fill-2" offset="94%" stop-color="rgba(125,224,255,0.06)"></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-rect34-fill" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-rect34-fill-0" offset="0%" stop-color="#79c9fb"></stop>
+                                <stop id="gradient-s-rect34-fill-1" offset="85%" stop-color="rgba(126,230,250,0.6832)"></stop>
+                                <stop id="gradient-s-rect34-fill-2" offset="100%" stop-color="rgba(127,234,250,0.64)"></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-rect37-fill" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-rect37-fill-0" offset="0%" stop-color="#79c9fb"></stop>
+                                <stop id="gradient-s-rect37-fill-1" offset="100%" stop-color="rgba(123,221,255,0.78)"></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-rect38-fill" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-rect38-fill-0" offset="0%" stop-color="#79c9fb"></stop>
+                                <stop id="gradient-s-rect38-fill-1" offset="97%" stop-color="rgba(122,231,255,0.75)"></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-rect43-fill" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-rect43-fill-0" offset="0%" stop-color="#79c9fb"></stop>
+                                <stop id="gradient-s-rect43-fill-1" offset="100%" stop-color="rgba(120,220,255,0.88)"></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-rect44-fill" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-rect44-fill-0" offset="0%" stop-color="#79c9fb"></stop>
+                                <stop id="gradient-s-rect44-fill-1" offset="100%" stop-color="rgba(1,232,251,0.25)"></stop>
+                              </linearGradient>
+                              
+                              <linearGradient id="gradient-s-rect46-fill" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-rect46-fill-0" offset="0%" stop-color="#79c9fb"></stop>
+                                <stop id="gradient-s-rect46-fill-1" offset="98%" stop-color="rgba(121,201,251,0)"></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-path2-stroke" x1="0" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-path2-stroke-0" offset="0%" stop-color="#fff" style="
+                              stop-color: rgb(256 0 0 / 0%);
+                          "></stop>
+                                <stop id="gradient-s-path2-stroke-1" offset="100%" stop-color="rgb(0 255 10)"></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-path3-stroke" x1="0" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-path3-stroke-0" offset="0%" stop-color="#7da9ff"></stop>
+                                <stop id="gradient-s-path3-stroke-1" offset="97%" stop-color="rgba(123,190,255,0)"></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-text4-fill" x1="0" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-text4-fill-0" offset="0%" stop-color="#50a4ed"></stop>
+                                <stop id="gradient-s-text4-fill-1" offset="100%" stop-color="rgba(118,227,255,0)"></stop>
+                              </linearGradient>
+                              <linearGradient id="gradient-s-tspan4-fill" x1="0" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+                                <stop id="gradient-s-tspan4-fill-0" offset="0%" stop-color="#50a4ed"></stop>
+                                <stop id="gradient-s-tspan4-fill-1" offset="100%" stop-color="rgba(118,227,255,0)"></stop>
+                              </linearGradient>
+                            </defs>
+                            <path id="gradient-s-path1" d="M575.166425,-41.57453L741.881331,405.777135L858.581766,158.483356l150.043415,319.536902l169.493488,11.114328l83.357453-108.364689L1386.5123,569.713457l136.150506-363.994212l241.736613,611.287989l72.243126-61.128799l127.814761,41.678727l58.350216-150.043416l119.479016,389.001447l136.150506-27.785818l75.021707,163.936324l136.150507-11.114328l58.350216,55.571635L-0.000006,1872.868302v-1914.442835l575.166431.000003Z" transform="translate(0-2)" fill="url(#gradient-s-path1-fill)" stroke="url(#gradient-s-path1-stroke)" stroke-width="7.68" class="svg-elem-1"></path>
+                            <rect id="gradient-s-rect7" width="0" height="17.923" rx="0" ry="0" transform="matrix(.501987-.063777-5.63435-1.30079 41.8078 1518.89)" fill="url(#gradient-s-rect7-fill)" stroke-width="0" class="svg-elem-8" style="
+                              transform: matrix(0, -14.936223, -8.63435, 0.69921, 160.8078, 1192.89);height: 10px !important;
+                          "></rect>
+                            <rect id="gradient-s-rect7_0" width="0" height="17.923" rx="0" ry="0" transform="matrix(.501987-.063777-5.63435-1.30079 41.8078 1518.89)" fill="url(#gradient-s-rect7_0-fill)" stroke-width="0" class="svg-elem-8" style="
+                              transform: matrix(0, -14.936223, -8.63435, 0.69921, 465.8078, 1162.89);height: 10px !important;
+                          "></rect>
+                            <rect id="gradient-s-rect7_1" width="0" height="17.923" rx="0" ry="0" transform="matrix(.501987-.063777-5.63435-1.30079 41.8078 1518.89)" fill="url(#gradient-s-rect7_1-fill)" stroke-width="0" class="svg-elem-8" style="
+                              transform: matrix(0, -14.936223, -8.63435, 0.69921, 617.8078, 1151.89);height: 10px !important;
+                          "></rect>
+                            <rect id="gradient-s-rect7_2" width="0" height="17.923" rx="0" ry="0" transform="matrix(.501987-.063777-5.63435-1.30079 41.8078 1518.89)" fill="url(#gradient-s-rect7_2-fill)" stroke-width="0" class="svg-elem-8" style="
+                              transform: matrix(0, -14.936223, -8.63435, 0.69921, 771.8078, 1135.89);height: 10px !important;
+                          "></rect>
+                            <rect id="gradient-s-rect7_3" width="0" height="17.923" rx="0" ry="0" transform="matrix(.501987-.063777-5.63435-1.30079 41.8078 1518.89)" fill="url(#gradient-s-rect7_3-fill)" stroke-width="0" class="svg-elem-8" style="
+                              transform: matrix(0, -14.936223, -8.63435, 0.69921, 313.8078, 1178.89); height: 10px !important;
+                          "></rect>
+                            <rect id="gradient-s-rect19" width="30.5644" height="0" rx="0" ry="0" transform="matrix(1 0 0.01672 0.957895 798.025 522.478)" fill="#79c9fb" stroke-width="0" class="svg-elem-20"></rect>
+                            <rect id="gradient-s-rect20" width="30.5644" height="0" rx="0" ry="0" transform="matrix(1 0 0.009003 0.515786 860.172 739.207)" fill="#79c9fb" stroke-width="0" class="svg-elem-21"></rect>
+                            <rect id="gradient-s-rect21" width="30.5644" height="0" rx="0" ry="0" transform="matrix(1 0 0.01525 0.873684 734.311 280.741)" fill="#79c9fb" stroke-width="0" class="svg-elem-22"></rect>
+                            <rect id="gradient-s-rect22" width="30.5644" height="0" rx="0" ry="0" transform="matrix(1 0 0.01525 0.873684 600.939-41.5745)" fill="#79c9fb" stroke-width="0" class="svg-elem-23"></rect>
+                            <rect id="gradient-s-rect23" width="30.5644" height="0" rx="0" ry="0" transform="matrix(1 0 0.011943 0.684211 920.913 648.903)" fill="#79c9fb" stroke-width="0" class="svg-elem-24"></rect>
+                            <rect id="gradient-s-rect24" width="30.5644" height="0" rx="0" ry="0" transform="matrix(1 0 0.011943 0.684211 984.82 785.053)" fill="#79c9fb" stroke-width="0" class="svg-elem-25"></rect>
+                            <rect id="gradient-s-rect25" width="30.5644" height="0" rx="0" ry="0" transform="matrix(1 0 0.011943 0.684211 1037.61 917.036)" fill="#79c9fb" stroke-width="0" class="svg-elem-26"></rect>
+                            <rect id="gradient-s-rect26" width="30.5644" height="0" rx="0" ry="0" transform="matrix(1 0 0.011943 0.684211 1095.96 775.329)" fill="#79c9fb" stroke-width="0" class="svg-elem-27"></rect>
+                            <rect id="gradient-s-rect27" width="30.5644" height="0" rx="0" ry="0" transform="matrix(1 0 0.014699 0.842103 1151.17 830.901)" fill="#79c9fb" stroke-width="0" class="svg-elem-28"></rect>
+                            <rect id="gradient-s-rect28" width="30.5644" height="0" rx="0" ry="0" transform="matrix(1 0 0.011943 0.684211 1401.61 716.978)" fill="#79c9fb" stroke-width="0" class="svg-elem-29"></rect>
+                            <rect id="gradient-s-rect29" width="30.5644" height="0" rx="0" ry="0" transform="matrix(1 0 0.011943 0.684211 1351.59 626.674)" fill="#79c9fb" stroke-width="0" class="svg-elem-30"></rect>
+                            <rect id="gradient-s-rect30" width="30.5644" height="0" rx="0" ry="0" transform="matrix(1 0 0.009003 0.515786 1204.72 762.826)" fill="#79c9fb" stroke-width="0" class="svg-elem-31"></rect>
+                            <rect id="gradient-s-rect31" width="30.5644" height="0" rx="0" ry="0" transform="matrix(1 0 0.010086 0.57784 1257.37 640.713)" fill="#79c9fb" stroke-width="0" class="svg-elem-32"></rect>
+                            <rect id="gradient-s-rect32" width="30.5644" height="0" rx="0" ry="0" transform="matrix(1 0 0.005879 0.336836 1305.16 551.8)" fill="#79c9fb" stroke-width="0" class="svg-elem-33"></rect>
+                            <rect id="gradient-s-rect33" width="30.5644" height="0" rx="0" ry="0" transform="matrix(1 0 0.005879 0.336836 1449.64 672.522)" fill="#79c9fb" stroke-width="0" class="svg-elem-34"></rect>
+                            <rect id="gradient-s-rect34" width="30.5644" height="0" rx="0" ry="0" transform="matrix(.999085-.052408 0.005879 0.336836 1783.23 1180.53)" fill="url(#gradient-s-rect34-fill)" stroke-width="0" class="svg-elem-35"></rect>
+                            <rect id="gradient-s-rect35" width="30.5644" height="0" rx="0" ry="0" transform="matrix(.998165-.105104 0.010413 0.596587 1728.23 1083.21)" fill="#79c9fb" stroke-width="0" class="svg-elem-36"></rect>
+                            <rect id="gradient-s-rect36" width="30.5644" height="0" rx="0" ry="0" transform="matrix(.998165-.105104 0.008146 0.466706 1683.13 967.267)" fill="#79c9fb" stroke-width="0" class="svg-elem-37"></rect>
+                            <rect id="gradient-s-rect37" width="30.5644" height="0" rx="0" ry="0" transform="matrix(.99597-.230868 0.010413 0.596587 1903.41 1128.73)" fill="url(#gradient-s-rect37-fill)" stroke-width="0" class="svg-elem-38"></rect>
+                            <rect id="gradient-s-rect38" width="30.5644" height="0" rx="0" ry="0" transform="matrix(.99597-.230868 0.008263 0.473378 1992.61 1083.95)" fill="url(#gradient-s-rect38-fill)" stroke-width="0" class="svg-elem-39"></rect>
+                            <rect id="gradient-s-rect39" width="30.5644" height="0" rx="0" ry="0" transform="matrix(.998165-.105104 0.010413 0.596587 1558.74 1066.71)" fill="#79c9fb" stroke-width="0" class="svg-elem-40"></rect>
+                            <rect id="gradient-s-rect40" width="30.5644" height="0" rx="0" ry="0" transform="matrix(.998165-.105104 0.017378 0.995585 1505.02 835.867)" fill="#79c9fb" stroke-width="0" class="svg-elem-41"></rect>
+                            <rect id="gradient-s-rect41" width="30.5644" height="0" rx="0" ry="0" transform="matrix(.998165-.105104 0.006168 0.353384 1651 1113.7)" fill="#79c9fb" stroke-width="0" class="svg-elem-42"></rect>
+                            <rect id="gradient-s-rect42" width="30.5644" height="0" rx="0" ry="0" transform="matrix(.998165-.105104 0.00647 0.370638 1606.5 1226.6)" fill="#79c9fb" stroke-width="0" class="svg-elem-43"></rect>
+                            <rect id="gradient-s-rect43" width="30.5644" height="0" rx="0" ry="0" transform="matrix(.99597-.230868 0.008042 0.460709 1856.49 1293.27)" fill="url(#gradient-s-rect43-fill)" stroke-width="0" class="svg-elem-44"></rect>
+                            <rect id="gradient-s-rect44" width="30.5644" height="0" rx="0" ry="0" transform="matrix(.99597-.230868 0.010413 0.596587 1947.87 1228.03)" fill="url(#gradient-s-rect44-fill)" stroke-width="0" class="svg-elem-45"></rect>
+                            <rect id="gradient-s-rect46" width="30.5644" height="0" rx="0" ry="0" transform="matrix(.99597-.230868 0.007736 0.443167 2095.49 1148.81)" fill="url(#gradient-s-rect46-fill)" stroke-width="0" class="svg-elem-47"></rect>
+                            <rect id="gradient-s-rect47" width="30.5644" height="0" rx="0" ry="0" transform="matrix(1 0 0.009922 0.568419 668.329 161.262)" fill="#79c9fb" stroke-width="0" class="svg-elem-48"></rect>
+                            <rect id="gradient-s-rect48" width="30.5644" height="0" rx="0" ry="0" transform="matrix(1 0 0.008268 0.473681 532.396-51.2987)" fill="#79c9fb" stroke-width="0" class="svg-elem-49"></rect>
+                            <path id="gradient-s-path2" d="M-11.11433,327.97685c37.36767,46.70959,146.9543,183.52608,200.05789,202.83647c88.13112,32.04768,155.53863-36.35727,236.17945-58.35022c24.17437-6.59301,53.24786,5.26124,77.80029,0c38.83603-8.32201,73.52485-32.59456,108.36469-50.01447c85.91114-42.95557,148.53456-63.90738,244.5152-63.90738c29.20401,0,61.93963-2.37317,88.91462,11.11433c10.54398,5.27199,16.28443,17.07742,25.00724,25.00724c39.97291,36.339,69.85053,63.09708,100.02894,108.36469c46.35327,69.5299,119.06212,115.31098,166.71491,183.3864c21.53443,30.76347,32.17875,65.14606,50.01447,97.25036c12.60048,22.68087,34.9333,38.98413,47.23589,61.1288c9.46589,17.03861,10.58762,37.84672,19.45007,55.57164c31.58891,63.17782,83.87474,142.22496,133.37192,191.72214c75.0018,75.0018,161.17253,14.39407,244.5152-8.33575c30.90448-8.42849,69.15851-2.83422,100.02894,2.77858c42.04823,7.64513,90.85941,25.15864,125.03618,50.01447c19.47269,14.16195,31.79524,37.41579,52.79305,50.01447c18.93127,11.35876,38.53337,18.19786,55.57164,33.34298c23.70518,21.07127,45.46969,50.6219,72.24313,66.68596" transform="translate(1800 1700) rotate(190 00 0)" fill="none" stroke="url(#gradient-s-path2-stroke)" stroke-width="7.68" class="svg-elem-61"></path>
+                            <path id="gradient-s-path3" d="M576.846723,1157.132901l945.816089-92.033408" fill="none" stroke="url(#gradient-s-path3-stroke)" stroke-width="7.68" class="svg-elem-62"></path>
+                            <text id="gradient-s-text1" dx="0" dy="0" font-family="&quot;gradient:::Roboto&quot;" font-size="61" font-weight="700" transform="matrix(1 0.052408 0.034985 1.001834 1158.558336 345.297968)" fill="#50a4ed" stroke-width="0">
+                              <tspan id="gradient-s-tspan1" y="0" font-family="&quot;gradient:::Roboto&quot;" font-size="61" font-weight="700" font-style="normal" fill="#50a4ed" stroke-width="0"> 63.50% </tspan>
+                            </text>
+                            <text id="gradient-s-text2" dx="0" dy="0" font-family="&quot;gradient:::Roboto&quot;" font-size="67" font-weight="700" transform="matrix(.985313-.131255 0.045984 1.00878 566.742 1224.64)" fill="#50a4ed" stroke-width="0">
+                              <tspan id="gradient-s-tspan2" y="0" font-family="&quot;gradient:::Roboto&quot;" font-size="67" font-weight="700" font-style="normal" fill="#50a4ed" stroke-width="0"> 220.00% </tspan>
+                            </text>
+                            <text id="gradient-s-text3" dx="0" dy="0" font-family="&quot;gradient:::Roboto&quot;" font-size="61" font-weight="700" transform="matrix(.572342 0.044732 0.009179 1.00057 1492.02492 179.288297)" fill="#50a4ed" stroke-width="0">
+                              <tspan id="gradient-s-tspan3" y="0" font-family="&quot;gradient:::Roboto&quot;" font-size="61" font-weight="700" font-style="normal" fill="#50a4ed" stroke-width="0"> 80.20% </tspan>
+                            </text>
+                            <text id="gradient-s-text4" dx="0" dy="0" font-family="&quot;gradient:::Roboto&quot;" font-size="61" font-weight="700" transform="matrix(.572929-.005244-.04318 0.99922 1971.051246 635.02606)" fill="url(#gradient-s-text4-fill)" stroke-width="0">
+                              <tspan id="gradient-s-tspan4" y="0" font-family="&quot;gradient:::Roboto&quot;" font-size="61" font-weight="700" font-style="normal" fill="url(#gradient-s-tspan4-fill)" stroke-width="0"> 50.00% </tspan>
+                            </text>
+                            <style>
+                              @font-face {
+                                font-family: 'gradient:::Roboto';
+                                font-style: normal;
+                                font-weight: 700;
+                                src: url(data:font/ttf;charset=utf-8;base64,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) format('truetype');
+                              }
+                            </style>
+                          </svg>
