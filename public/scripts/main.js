@@ -3,7 +3,9 @@ var blob_home1=document.querySelector(".blob-home-1");
 var blob_home2=document.querySelector(".blob-home-2");
 var about=document.getElementById("about");
 var load_menu=document.getElementById("load_menu");
- 
+$=(element)=>{
+    return document.querySelector(element)
+}
 
 
 
@@ -110,3 +112,7 @@ function setStyleBackground(div_class){
     }
 
 }*/
+
+$('#close-alert').onclick=()=>{
+    $('.alert').classList.remove('open');
+}
