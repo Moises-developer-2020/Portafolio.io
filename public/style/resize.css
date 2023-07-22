@@ -1,0 +1,34 @@
+@media screen and (min-width: 1366px) {
+    .navegation{
+        font-size: 1em !important;
+    }
+    .infoMe{
+        padding-top: 30px !important;
+        font-size: 1.1em !important;
+    }
+    .circle{
+        width: 680px;
+        height: 680px;
+        top: -67px;
+        transform: scale(0.9);
+    }
+    .area, .infoSkillImg{
+        width: 680px;
+        height: 680px;
+    }
+    .infoSkillImg{
+        left: 0px;
+    }
+    /* .particles span:nth-child(1) {
+        height: 150px;
+        width: 150px;
+        bottom: 131px;
+    }
+    .particles span:nth-child(2){
+        height: 132px;
+        width: 132px;
+    }
+    .particles span:nth-child(3){
+        right: -256px;
+    } */
+}
